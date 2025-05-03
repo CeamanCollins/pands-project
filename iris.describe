@@ -1,9 +1,33 @@
-,Sepal Length in cm,Sepal Width in cm,Petal Length in cm,Petal Width in cm
-count,150.0,150.0,150.0,150.0
-mean,5.843333333333334,3.0540000000000003,3.758666666666666,1.1986666666666668
-std,0.8280661279778629,0.4335943113621737,1.7644204199522617,0.7631607417008414
-min,4.3,2.0,1.0,0.1
-25%,5.1,2.8,1.6,0.3
-50%,5.8,3.0,4.35,1.3
-75%,6.4,3.3,5.1,1.8
-max,7.9,4.4,6.9,2.5
+,,Iris-setosa,Iris-versicolor,Iris-virginica
+Sepal Length in cm,count,50.0,50.0,50.0
+Sepal Length in cm,mean,5.006,5.936,6.587999999999998
+Sepal Length in cm,std,0.3524896872134512,0.5161711470638635,0.635879593274432
+Sepal Length in cm,min,4.3,4.9,4.9
+Sepal Length in cm,25%,4.8,5.6,6.225
+Sepal Length in cm,50%,5.0,5.9,6.5
+Sepal Length in cm,75%,5.2,6.3,6.9
+Sepal Length in cm,max,5.8,7.0,7.9
+Sepal Width in cm,count,50.0,50.0,50.0
+Sepal Width in cm,mean,3.418,2.7700000000000005,2.974
+Sepal Width in cm,std,0.38102439795469095,0.3137983233784114,0.3224966381726376
+Sepal Width in cm,min,2.3,2.0,2.2
+Sepal Width in cm,25%,3.125,2.525,2.8
+Sepal Width in cm,50%,3.4,2.8,3.0
+Sepal Width in cm,75%,3.6750000000000003,3.0,3.1750000000000003
+Sepal Width in cm,max,4.4,3.4,3.8
+Petal Length in cm,count,50.0,50.0,50.0
+Petal Length in cm,mean,1.464,4.26,5.5520000000000005
+Petal Length in cm,std,0.1735111594364455,0.46991097723995806,0.5518946956639835
+Petal Length in cm,min,1.0,3.0,4.5
+Petal Length in cm,25%,1.4,4.0,5.1
+Petal Length in cm,50%,1.5,4.35,5.55
+Petal Length in cm,75%,1.5750000000000002,4.6,5.875
+Petal Length in cm,max,1.9,5.1,6.9
+Petal Width in cm,count,50.0,50.0,50.0
+Petal Width in cm,mean,0.244,1.3259999999999998,2.0260000000000002
+Petal Width in cm,std,0.10720950308167837,0.197752680004544,0.27465005563666733
+Petal Width in cm,min,0.1,1.0,1.4
+Petal Width in cm,25%,0.2,1.2,1.8
+Petal Width in cm,50%,0.2,1.3,2.0
+Petal Width in cm,75%,0.3,1.5,2.3
+Petal Width in cm,max,0.6,1.8,2.5
