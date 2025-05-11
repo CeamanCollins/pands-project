@@ -40,7 +40,11 @@ This next section contains similar analysis to the histograms section but improv
 
 Using MatPlotLib, I create highly customised box plots of the features.
 
-### Creating a Scatter 
+### Removing Fliers
+
+In this section I explore removing fliers.
+
+### Creating a Scatter Plot
 
 In this section I create scatter plots of the data.
 
@@ -92,6 +96,10 @@ And using pip you can import to your current working environment using:
 - [matplotlib Box Plots Examples](https://matplotlib.org/stable/gallery/statistics/boxplot_color.html)
 - [Stack Overflow Thread: Pandas boxplot: set color and properties for box, median, mean](https://stackoverflow.com/questions/35160956/pandas-boxplot-set-color-and-properties-for-box-median-mean)
 - [Stack Overflow Thread: Flier colors in boxplot with matplotlib](https://stackoverflow.com/questions/43342564/flier-colors-in-boxplot-with-matplotlib)
+- [How to Add a Title to Seaborn Plots \(With Examples\)](https://www.statology.org/seaborn-title/)
+- [Pandas API Reference - pandas.DataFrame.copy()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.copy.html)
+- [Pandas User Guide - Indexing and selecting data](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy)
+- [Stack Exchange: Removing outliers renders a new distribution that has its own outliers](https://stats.stackexchange.com/questions/492995/removing-outliers-renders-a-new-distribution-that-has-its-own-outliers)
 - [matplotlib Examples - List of Named Colors](https://matplotlib.org/stable/gallery/color/named_colors.html)
 - [seaborn.pairplot API Reference](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
 - [seaborn.PairGrid Api Reference](https://seaborn.pydata.org/generated/seaborn.PairGrid.html)
